@@ -10,7 +10,8 @@ import java.util.List;
 import utilClass.arrayClass.ArrayMethods;
 
 /**
- *
+ * Requires that you already have python and/or python3.3 installed
+ * Untested on Windows
  * @author onigiri
  */
 public class PythonLang implements PythonLangInterface{
