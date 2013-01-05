@@ -1,0 +1,6 @@
+BUILDING INSTRUCTIONS
+=====================
+Download an archive.
+Extract the archive.
+Run ant.
+Appears in "dist" folder.
