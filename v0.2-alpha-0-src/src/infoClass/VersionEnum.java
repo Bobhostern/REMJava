@@ -11,7 +11,7 @@ package infoClass;
 public enum VersionEnum {
     /**
      * ALPHA - barely different from the previous release. 
-     * Use the other release unless you need something that was introduced in this release.
+     * Use the most recent previous release unless you need something that was introduced in this release.
      */
     ALPHA,
     /**
